@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://elatedlion787.github.io/development-project/`
+If you used the stencil code, this is `https://github.com/elatedlion787/development-final-final`
 
 ### Goal and Value of the Application
 The goal of the application was to create an e-commerce based resturant website that allows users to navigate the resturant's offerings through filters (based on Vegetarian-Friendliness and the type of dish) and sorting features (Sorting by Price). The user can also add items to a cart and see their total. I also created this project in order to refine my React skills.
