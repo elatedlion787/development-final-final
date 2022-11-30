@@ -1,0 +1,8 @@
+.aggregator{
+    box-shadow: 0 2.5px 2.5px 0 rgba(0,0,0,0.2);
+    background-color: rgb(72, 202, 189);
+    font-size: 18px;
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+}
